@@ -7,5 +7,5 @@
 策略: [strategy](https://github.com/HaoningChen/Houfang-Cup/blob/main/strategy.ipynb)
 
 ps:
-[数据和数据说明](https://www.kaggle.com/datasets/harleychan/csi300)
+[数据和数据说明](https://www.kaggle.com/datasets/harleychan/csi300)  
 工具包: [scutquant](https://github.com/HaoningChen/ScutQuant); [qlib](https://github.com/microsoft/qlib)
