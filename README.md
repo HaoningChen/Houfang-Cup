@@ -8,4 +8,5 @@
 
 ps:  
 [数据和数据说明](https://www.kaggle.com/datasets/harleychan/csi300)  
-工具包: [scutquant](https://github.com/HaoningChen/ScutQuant); [qlib](https://github.com/microsoft/qlib)
+工具包: [scutquant](https://github.com/HaoningChen/ScutQuant); [qlib](https://github.com/microsoft/qlib)  
+如要复现, 请下载数据后依次运行[data_insight](https://github.com/HaoningChen/Houfang-Cup/blob/main/data_insight.ipynb), [lightGBM](https://github.com/HaoningChen/Houfang-Cup/blob/main/lgbm.ipynb), [hybrid](https://github.com/HaoningChen/Houfang-Cup/blob/main/hybrid.ipynb)和[strategy](https://github.com/HaoningChen/Houfang-Cup/blob/main/strategy.ipynb)
