@@ -6,6 +6,6 @@
 (说明: hybrid的weight=[0, 1]时, 相当于xgboost模型; weight=[1, 0]时, 相当于线性回归模型)  
 策略: [strategy](https://github.com/HaoningChen/Houfang-Cup/blob/main/strategy.ipynb)
 
-ps:
+ps:  
 [数据和数据说明](https://www.kaggle.com/datasets/harleychan/csi300)  
 工具包: [scutquant](https://github.com/HaoningChen/ScutQuant); [qlib](https://github.com/microsoft/qlib)
