@@ -1,4 +1,4 @@
-# 厚方杯二等奖方案(重制版)
+# 首届[厚方杯](http://gdhf-inv.com/news_detail.php?CateID=11110&id=147)二等奖方案(重制版)
 
 目录:  
 数据分析和特征工程: [data_insight](https://github.com/HaoningChen/Houfang-Cup/blob/main/data_insight.ipynb)  
