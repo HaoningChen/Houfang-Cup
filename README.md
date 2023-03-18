@@ -5,3 +5,5 @@
 模型: [lightGBM](https://github.com/HaoningChen/Houfang-Cup/blob/main/lgbm.ipynb);  [hybrid](https://github.com/HaoningChen/Houfang-Cup/blob/main/hybrid.ipynb)  
 (说明: hybrid的weight=[0, 1]时, 相当于xgboost模型; weight=[1, 0]时, 相当于线性回归模型)  
 策略: [strategy](https://github.com/HaoningChen/Houfang-Cup/blob/main/strategy.ipynb)
+
+ps: [数据和数据说明](https://www.kaggle.com/datasets/harleychan/csi300)
