@@ -4,6 +4,7 @@
 数据分析和特征工程: [data_insight](https://github.com/HaoningChen/Houfang-Cup/blob/main/data_insight.ipynb)  
 模型: [lightGBM](https://github.com/HaoningChen/Houfang-Cup/blob/main/lgbm.ipynb);  [hybrid](https://github.com/HaoningChen/Houfang-Cup/blob/main/hybrid.ipynb)  
 (说明: hybrid的weight=[0, 1]时, 相当于xgboost模型; weight=[1, 0]时, 相当于线性回归模型)  
+NN Models: 使用神经网络进行因子挖掘, 但实际效果还是没有lgbm和hybrid好  
 策略: [strategy](https://github.com/HaoningChen/Houfang-Cup/blob/main/strategy.ipynb)
 
 ps:  
