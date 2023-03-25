@@ -16,4 +16,4 @@
 一个很奇怪的结论:   
 将[data_insight](https://github.com/HaoningChen/Houfang-Cup/blob/main/data_insight.ipynb)中的i8因子表达式改成
 $$\frac{high + low}{2 R_f close}$$
-时, i8的因子质量会大幅提升, 且模型的IC也有所提升, 但使用相同的策略回测会降低$alpha$
+时, i8的因子质量会大幅提升, 且模型的IC也有所提升, 但使用相同的策略回测会降低$\alpha$
