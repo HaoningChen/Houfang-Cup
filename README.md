@@ -10,7 +10,7 @@
 
 ## ps:  
 [数据和数据说明](https://www.kaggle.com/datasets/harleychan/csi300)  
-工具包: [scutquant](https://github.com/HaoningChen/ScutQuant)(v0.3.2); [qlib](https://github.com/microsoft/qlib)(v0.8.4)  
+工具包: [scutquant](https://github.com/HaoningChen/ScutQuant)(v0.3.3及以上); [qlib](https://github.com/microsoft/qlib)(v0.8.4及以上)  
 如要复现, 请下载数据后依次运行[data_insight](https://github.com/HaoningChen/Houfang-Cup/blob/main/data_insight.ipynb), [lightGBM](https://github.com/HaoningChen/Houfang-Cup/blob/main/lgbm.ipynb), [hybrid](https://github.com/HaoningChen/Houfang-Cup/blob/main/hybrid.ipynb)和[strategy](https://github.com/HaoningChen/Houfang-Cup/blob/main/strategy.ipynb)  
 
 一个很奇怪的结论:   
